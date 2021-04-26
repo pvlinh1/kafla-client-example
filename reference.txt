@@ -1,0 +1,7 @@
+- https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac
+
+- https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=crud-data-table-for-database-with-modal-form
+
+- https://www.tutorialrepublic.com/snippets/preview.php?topic=bootstrap&file=crud-data-table-for-database-with-modal-form
+
+- https://cli.vuejs.org/guide/creating-a-project.html#vue-create
